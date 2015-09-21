@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>G:\Projects\ScreenClock\Publish\|发布\</PublishUrlHistory>
+    <InstallUrlHistory>http://learn.tsinghua.edu.cn:8080/2010011428/install/screenclock/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DebugSecurityZoneURL>http://learn.tsinghua.edu.cn:8080/2010011428/install/screenclock/</DebugSecurityZoneURL>
+  </PropertyGroup>
+</Project>
