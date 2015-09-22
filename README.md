@@ -26,3 +26,10 @@
 
 ## C# 程序
 这一部分是C#程序，实现windows系统中的弹幕功能。程序接收从local部分发送的UDP包，将接收到的内容以弹幕的形式显示在桌面上。使用VS 2012打开，编译即可。
+
+![CC-BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+http://creativecommons.org/licenses/by-nc/4.0/
+
+不允许商业使用。转载请保留此信息。
